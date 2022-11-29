@@ -1,0 +1,19 @@
+{
+  "name": "module-buddler",
+  "version": "1.0.0",
+  "description": "BABEL & WEBPACK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabbirumrali/babel-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shabbirumrali/babel-webpack/issues"
+  },
+  "homepage": "https://github.com/shabbirumrali/babel-webpack#readme"
+}
