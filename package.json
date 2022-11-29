@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shabbirumrali/babel-webpack/issues"
   },
-  "homepage": "https://github.com/shabbirumrali/babel-webpack#readme"
+  "homepage": "https://github.com/shabbirumrali/babel-webpack#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2"
+  }
 }
